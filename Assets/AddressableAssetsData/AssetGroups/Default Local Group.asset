@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 18ea74996e4824207a7d8856024028af
+  m_SerializeEntries:
+  - m_GUID: f4c24852c28914a36aa0155be2cafd62
+    m_Address: Assets/Audio/pack0/P000002.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44024b188a9874353ac7088837d58afb
+    m_Address: Assets/Audio/pack0/P000001.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 745e4e27b1fce49ae9178f28f56367f5
+    m_Address: Assets/Audio/pack0/P000000.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0013e0b71edf40889740fb808e8c9ea
+    m_Address: Assets/Audio/pack0/P000003.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37e546a9ec04f4d98a51935567dd58c3
+    m_Address: Assets/Audio/pack0/P000004.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90a52203462084af4ac71562e3934f32
+    m_Address: Assets/Audio/pack0/P000005.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84231ac5e91924d53a46448bb12bf23e
+    m_Address: Assets/Audio/pack0/P000006.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8cf6d18f14d4a43dfa0d641aa6ac5973
+    m_Address: Assets/Audio/pack0/P000007.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b642c3b3a571745c6b21a3a610aa52f3
+    m_Address: Assets/Audio/pack0/P000008.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 022857f20fffe40f7a714cee12f1259c
+    m_Address: Assets/Audio/pack0/P000009.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99062ea18bf85416c8b1f2fcbe5de687
+    m_Address: Assets/Audio/pack0/P000010.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6af9b68365d694e95923096bf1e07205, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 020375552133f4cdfa65dcd7874ad53f, type: 2}
+    - {fileID: 11400000, guid: 3df1fb798a6174e0cb7b642371ce3637, type: 2}
